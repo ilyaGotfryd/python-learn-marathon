@@ -8,6 +8,9 @@ This event is to rais money for Lucimia Foundation that is being held at our loc
 
 [https://www.twitch.tv/dean_forward](https://www.twitch.tv/dean_forward)
 
+## Add yourself to this event to be reminded of it happening
+[Google Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmR2ZGw0OHUwNjVjYjBhaTlidWo3N2ZrYnMgaWx5YS5nb3RmcnlkQG0&tmsrc=ilya.gotfryd%40gmail.com)
+
 ## We will use Repl.it for the coding session
 Once the session is ready to start you should be able to pull this repo into Repl.It python project as a starting point for the lesson.
 
