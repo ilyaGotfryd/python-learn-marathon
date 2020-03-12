@@ -6,7 +6,7 @@ This event is to rais money for Lucimia Foundation that is being held at our loc
 
 ## Please donate to the cause below
 
-[https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/RGotfryd](https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/RGotfryd)
+[Raphael's Fundraising page](https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/RGotfryd)
 
 ## Sign up on Twitch to get further notifications
 
