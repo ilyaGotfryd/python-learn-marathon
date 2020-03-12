@@ -4,6 +4,10 @@ This is a repo for a Learn Python For Charity Event.
 The event will be held on Twitch **Sun March 22, 2020 10:00 AM - 6:00 PM EST**. Depending on success will be continued on **Sun March 29, 2020**.
 This event is to rais money for Lucimia Foundation that is being held at our local school.
 
+## Please donate to the cause below
+
+[https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/RGotfryd](https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/RGotfryd)
+
 ## Sign up on Twitch to get further notifications
 
 [https://www.twitch.tv/dean_forward](https://www.twitch.tv/dean_forward)
