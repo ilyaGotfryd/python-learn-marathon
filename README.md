@@ -8,6 +8,13 @@ This event is to rais money for Lucimia Foundation that is being held at our loc
 
 [https://www.twitch.tv/dean_forward](https://www.twitch.tv/dean_forward)
 
+## We will use Repl.it for the coding session
+Once the session is ready to start you should be able to pull this repo into Repl.It python project as a starting point for the lesson.
+
+[https://repl.it](https://repl.it)
+
+The teaching is going to be done in this environment to minimize setup problems. I will try to cover runing Python in your environment to a degree and we can have a Q&A about it in the course of the event.
+
 ## Lesson plan in a mind map
 This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on success of the first session.
 
