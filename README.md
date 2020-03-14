@@ -1,5 +1,5 @@
 # Python Learn Marathon
-This is a repo for a Learn Python For Charity Event.
+This is a repo for a Learn Python For Charity Event. 
 
 The event will be held on Twitch **Sun March 22, 2020 10:00 AM - 6:00 PM EST**. Depending on success will be continued on **Sun March 29, 2020**.
 This event is to rais money for Lucimia Foundation that is being held at our local school.
@@ -17,9 +17,9 @@ This event is to rais money for Lucimia Foundation that is being held at our loc
 [Google Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmR2ZGw0OHUwNjVjYjBhaTlidWo3N2ZrYnMgaWx5YS5nb3RmcnlkQG0&tmsrc=ilya.gotfryd%40gmail.com)
 
 ## We will use Repl.it for the coding session
-Once the session is ready to start you should be able to pull this repo into Repl.It python project as a starting point for the lesson.
+Once the session is ready to start click the link below to run this session in **Repl.it**:
 
-[https://repl.it](https://repl.it)
+[![Run on Repl.it](https://repl.it/badge/github/ilyaGotfryd/python-learn-marathon)](https://repl.it/github/ilyaGotfryd/python-learn-marathon)
 
 The teaching is going to be done in this environment to minimize setup problems. I will try to cover runing Python in your environment to a degree and we can have a Q&A about it in the course of the event.
 
