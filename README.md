@@ -23,7 +23,18 @@ Once the session is ready to start click the link below to run this session in *
 
 The teaching is going to be done in this environment to minimize setup problems. I will try to cover runing Python in your environment to a degree and we can have a Q&A about it in the course of the event.
 
+## Practice Typing Python before the lesson to keep up
+To keep up with the lesson please practice typing Python so that special Symbols and scoping are easy to grasp at the fast pace.
+
+[Typing.IO Python practice](https://typing.io/lesson/python/mercurial/merge.py/1)
+
+## Screen setup for type along
+
+We are going to be broadcasting in as zoomed-in of a mode as possible so that you could split your screen if you are on a single monitor and code along with us. Here is the recommended setup:
+
+![Screen Split View](https://github.com/ilyaGotfryd/python-learn-marathon/raw/master/screen-split-view.png)
+
 ## Lesson plan in a mind map
-This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on success of the first session.
+This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on the success of the first session.
 
 ![Python Learning Mind Map](https://github.com/ilyaGotfryd/python-learn-marathon/raw/master/python-learn-marathon-mind-map.png)
