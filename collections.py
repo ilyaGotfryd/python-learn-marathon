@@ -4,9 +4,28 @@
 # We will play with basics of the underlying language and see the power of what we can do right here
 
 ## TUPLE
+# declare - empty full
+# access elements
+# try changing values
 
 ## LIST
+# declare - empty, full
+# access
+# mutate
+# pile on different types
+# splice - get some from the end, some from the begining, everyother one, etc.
+# add lists, append item to list
 
 ## SET
+# declare - empty, full
+# feed a list of repeating elements to a set
+# set math - & | ^
 
 ## DICTIONARY
+# declare - empty, full
+# key, value - is it hashable (try declareing with list)
+# add
+# access
+# join lists - update
+
+# we will cover comprehansion once we go over loops
