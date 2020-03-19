@@ -7,14 +7,18 @@
 # declare - empty full
 # access elements
 # try changing values
+# unrol tuple into coma delimited values
 
 ## LIST
 # declare - empty, full
+# create using '*' operator
 # access
 # mutate
 # pile on different types
 # splice - get some from the end, some from the begining, everyother one, etc.
 # add lists, append item to list
+# randomly select a value out of a list - options
+# shuffle contents of the list - shuffle
 
 ## SET
 # declare - empty, full
