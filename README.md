@@ -32,9 +32,19 @@ To keep up with the lesson please practice typing Python so that special Symbols
 
 ## Screen setup for type along
 
+If you do not have dual-screen setup, you will probably have an easier time if you set up twitch on your smart TV and watch this broadcast there so that your computer is fully available for coding:
+
+[Twitch on Apple TV](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396#?platform=appleTV)|
+[Twitch on Roku](https://www.howtogeek.com/369438/how-to-watch-twitch-on-roku/)|
+[Twitch on Cromecast](https://chromecastappstips.com/cast-twitch-on-chromecast/)|
+[Twitch on FireTV](https://www.amazon.com/Twitch-Interactive-Inc/dp/B007SOQBCM)
+
+
 We are going to be broadcasting in as zoomed-in of a mode as possible so that you could split your screen if you are on a single monitor and code along with us. Here is the recommended setup:
 
 ![Screen Split View](https://github.com/ilyaGotfryd/python-learn-marathon/raw/master/screen-split-view.png)
+
+This setup suggests that you place two windows side by side and collapse alls the side-bars in both windows. One thing to be aware of is that when you will be executing your code results will be showing up in the console window collapsed in the image to the right so you will need to expand it when the command is running.
 
 ## Lesson plan in a mind map
 This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on the success of the first session.

@@ -12,6 +12,8 @@ It gives you an ability to logically group the code, redistribute and reuse it.
 
 # default values
 
+# beware of mutable default values
+
 # creating and accessing optional positional parameters and keyword arguments 
 
 # passing kwargs through without reusing them
@@ -19,6 +21,10 @@ It gives you an ability to logically group the code, redistribute and reuse it.
 # unrolling dictionarry into parameters
 
 # returning multiple values and unrolling them into a tuple
+
+# type annotations - simple types
+
+# type annotations - collection
 
 # yield key word and generators
 
