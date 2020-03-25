@@ -3,7 +3,15 @@ One of very powerful common constructs in modern languages is function.
 It gives you an ability to logically group the code, redistribute and reuse it.
 """
 
-#declare basic function with pass for body
+# let's build a greeting function
+# 1) print Greetings to you from Python
+# 2) pull "Python" out into a variable
+# 3) wrap both lines into a function without a parameter - discuss scope
+# 4) run code and see that function is not executed
+# 5) call declared function
+# 6) turn variable with value "Python" into parameter and pass literal to the function
+# 7) use formatting from within print to create a greeting and return it, print returned value outside
+
 #revisit scope
 
 # passing positional parameters in
@@ -22,9 +30,9 @@ It gives you an ability to logically group the code, redistribute and reuse it.
 
 # returning multiple values and unrolling them into a tuple
 
-# type annotations - simple types
+# type hints - simple types
 
-# type annotations - collection
+# type hints - collection
 
 # yield key word and generators
 
