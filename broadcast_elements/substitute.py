@@ -17,7 +17,11 @@ if __name__ == "__main__":
         ("Boolean Logic", "!help_boolean_logic", "boolean_logic.py"),
         ("Conditionals", "!help_conditionals", "conditionals.py"),
         ("Loops", "!help_loops", "loops.py"),
-        ("Functions", "!help_functions", "functions.py")
+        ("Functions", "!help_functions", "functions.py"),
+        ("Modules", "!help_modules", "modules.py"),
+        ("Testing/TDD", "!help_testing", "TESTING readme"),
+        ("Class", "!help_class", "classes.py"),
+        ("Dataclass", "!help_dataclass", "dataclass.py"),
     ]
 
     if len(sys.argv) == 1:
