@@ -1,6 +1,8 @@
 # Python Learn Marathon
 This is a repo for a Learn Python For Charity Event. 
 
+**NOTE: Codez from the first session have been pushed to the repo and the video can be found [here](./session_one/README.md) until April 5th. We are working on pushing those materials to youtube and will make that link available here.**
+
 The event will be held on Twitch **Sun March 22, 2020 10:00 AM - 6:00 PM EST**. Depending on success will be continued on **Sun March 29, 2020**.
 This event is to rais money for Lucimia Foundation that is being held at our local school.
 
