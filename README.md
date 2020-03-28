@@ -12,6 +12,7 @@ This event is to rais money for Lucimia Foundation that is being held at our loc
 ### Next session will cover
 * Loops
 * Functions
+* Modules, Debugging, Python path, Virtual Env - [notes](./MODULES.md)
 * Testing and TDD - [setup instructions](./TESTING.md)
 * Classes
 
