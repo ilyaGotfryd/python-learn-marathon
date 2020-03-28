@@ -60,3 +60,8 @@ This setup suggests that you place two windows side by side and collapse alls th
 This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on the success of the first session.
 
 ![Python Learning Mind Map](https://github.com/ilyaGotfryd/python-learn-marathon/raw/master/python-learn-marathon-mind-map.png)
+
+## Future plans and related projects
+
+* Let's review/learn more Python topics - I am looking to create more of these sessions, but only an hour or two long discussing libraries and other modern Python capabilitie.
+* Gagarin Academy - [sample](./gagarin-academy/GAGARIN_ACADEMY.md)
