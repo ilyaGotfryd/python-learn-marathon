@@ -1,5 +1,5 @@
 # Python Learn Marathon
-This is a repo for the Learning Channel python studying sessions. 
+This is a repo for the Learning Channel Python studying sessions. 
 
 **NOTE: Codez from the first session have been pushed to the repo and the video can be found [here](./session_one/README.md) until April 5th. We are working on pushing those materials to youtube and will make that link available here.**
 
