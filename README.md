@@ -5,7 +5,7 @@ This is a repo for the Learning Channel Python studying sessions.
 
 Sessions will be held on Wednesdays at 2PM EST for 1 hour starting OCtober 7, 2020.
 
-<iframe src="https://player.twitch.tv/?channel=dean_forward" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/dean_forward?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from dean_forward on www.twitch.tv</a>
+<iframe src="https://player.twitch.tv/?channel=dean_forward&parent=ilyagotfryd.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/dean_forward?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from dean_forward on www.twitch.tv</a>
 
 ### First session will cover
 * Hello World and Setup in [repl.it](http://repl.it)
