@@ -1,33 +1,29 @@
 # Python Learn Marathon
-This is a repo for a Learn Python For Charity Event. 
+This is a repo for the Learning Channel python studying sessions. 
 
 **NOTE: Codez from the first session have been pushed to the repo and the video can be found [here](./session_one/README.md) until April 5th. We are working on pushing those materials to youtube and will make that link available here.**
 
-~~The event will be held on Twitch **Sun March 22, 2020 10:00 AM - 6:00 PM EST**. Depending on success will be continued on~~ 
-~~The next session is held **Sun March 29, 2020 10:00 AM - 6:00 PM EST**.~~
-The next session is held **Sun April 19, 2020 10:00 AM - 6:00 PM EST**. Windstream had addressed my connectivity issues so the broadcast should stay strong.
-We have met the fundraising goals for Lucimia Foundation that is being held at our local school, thank you all that participated.
+Sessions will be held on Wednesdays at 2PM EST for 1 hour starting OCtober 7, 2020.
 
 <iframe src="https://player.twitch.tv/?channel=dean_forward" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/dean_forward?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from dean_forward on www.twitch.tv</a>
 
-### Next session will cover
-* ~~Loops~~
-* ~~Functions~~
+### First session will cover
+* Hello World and Setup in [repl.it](http://repl.it)
+* Variables
+### Upcoming sessions
+* Collections
+* Boolean Logic
+* Conditional Statements
+* Dates
+* Loops
+* Functions
 * Modules, Debugging, Python path, Virtual Env - [notes](./MODULES.md)
 * Testing and TDD - [setup instructions](./TESTING.md)
 * Classes
 
-## Please donate to the cause below
-
-* [Raphael's Fundraising page](https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/RGotfryd) - Stream Editor/ Tech Support
-* [Jonathan's Fundraising Page](https://events.lls.org/pages/noh/leeeatonelementaryschool-2020/JGotfryd) - Chat Moderator
-
 ## Sign up on Twitch to get further notifications
 
 [https://www.twitch.tv/dean_forward](https://www.twitch.tv/dean_forward)
-
-## Add yourself to this event to be reminded of it happening
-[Google Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmR2ZGw0OHUwNjVjYjBhaTlidWo3N2ZrYnMgaWx5YS5nb3RmcnlkQG0&tmsrc=ilya.gotfryd%40gmail.com)
 
 ## We will use Repl.it for the coding session
 Once the session is ready to start click the link below to run this session in **Repl.it**:
