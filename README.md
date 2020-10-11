@@ -3,16 +3,18 @@ This is a repo for the Learning Channel Python studying sessions.
 
 **NOTE: Codez from the first session have been pushed to the repo and the video can be found [here](./session_one/README.md) until April 5th. We are working on pushing those materials to youtube and will make that link available here.**
 
-Sessions will be held on Wednesdays at 2PM EST for 1 hour starting OCtober 7, 2020.
+Sessions will be held on Wednesdays at 2PM EST for 1 hour starting October 14, 2020.
 
 <iframe src="https://player.twitch.tv/?channel=dean_forward&parent=ilyagotfryd.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/dean_forward?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from dean_forward on www.twitch.tv</a>
 
-### First session will cover
+### First session covered
 * Hello World and Setup in [repl.it](http://repl.it)
 * Variables
-### Upcoming sessions
-* Collections
+* Collections tuples
+### Second session will cover
+* Collections - remainder
 * Boolean Logic
+### Upcoming sessions
 * Conditional Statements
 * Dates
 * Loops
@@ -57,6 +59,10 @@ This setup suggests that you place two windows side by side and collapse alls th
 This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on the success of the first session.
 
 ![Python Learning Mind Map](https://github.com/ilyaGotfryd/python-learn-marathon/raw/master/python-learn-marathon-mind-map.png)
+
+## Youtube videos of prior sessions
+Here are the prior sessions posted in a Youtube playlist.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rg9w5nZzelI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Future plans and related projects
 
