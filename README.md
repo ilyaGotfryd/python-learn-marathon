@@ -16,18 +16,24 @@ Sessions will be held on Wednesdays at 2PM EST for 1 hour starting October 21, 2
 * Collections - remainder
 * Boolean Logic
 
-### Third Session will cover
+### Third Session
 * Boolean Logic - remainder
 * Strings
 
-### Upcoming sessions
+### Fourt Session will cover
 * Conditional Statements
-* Dates
 * Loops
+
+### Upcoming sessions
 * Functions
 * Modules, Debugging, Python path, Virtual Env - [notes](./MODULES.md)
 * Testing and TDD - [setup instructions](./TESTING.md)
 * Classes
+* Dates and date math
+
+## Youtube videos of prior sessions
+Here are the prior sessions posted in a Youtube playlist.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rg9w5nZzelI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sign up on Twitch to get further notifications
 
@@ -65,10 +71,6 @@ This setup suggests that you place two windows side by side and collapse alls th
 This mind map covers the lesson plan for two sessions. We are going to get through Python basics in the first session and go into more advanced topics depending on the success of the first session.
 
 ![Python Learning Mind Map](https://github.com/ilyaGotfryd/python-learn-marathon/raw/master/python-learn-marathon-mind-map.png)
-
-## Youtube videos of prior sessions
-Here are the prior sessions posted in a Youtube playlist.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rg9w5nZzelI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Future plans and related projects
 
