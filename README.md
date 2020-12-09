@@ -32,11 +32,13 @@ Sessions will be held on Wednesdays at 2PM EST for 1 hour starting December 2, 2
 ### Seventh Session
 * Functions Continued
 
-### Eight Session - Will cover
+### Eight Session
 * Modules, Debugging, Python path, Virtual Env - [notes](./MODULES.md)
 
-### Upcoming sessions
+### Nineth Session - Will covert 
 * Testing and TDD - [setup instructions](./TESTING.md)
+
+### Upcoming sessions
 * Classes
 * Dates and date math
 
